@@ -1,0 +1,31 @@
+# VCS
+.git
+.gitignore
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Builds
+dist/
+build/
+coverage/
+
+# Env
+.env
+.env.*
+
+# Caches
+.cache/
+.eslintcache
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
